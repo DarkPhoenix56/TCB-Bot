@@ -22,5 +22,5 @@
 <p>You may not abuse* (Spamming errors, Trying to Break bot by continued use of Bugged Commands in a open/closed channel). This will result in a lifetime ban from using Bot, if caught.</p>
 
 <h3>Change of Privacy Policy or Terms of Service</h3>
-<p>You may know that, We have all the rights to change our Privacy Policy or Terms of Service at anytime, and give the dev higher level access to any added server without any prior notice to any server or user.</p>
+<p>You may know that, We have all the rights to change our Privacy Policy or Terms of Service at anytime, without any prior notice to any server or user.</p>
 
