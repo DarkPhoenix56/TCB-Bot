@@ -3,7 +3,7 @@
 
 <h2>Privacy Policy</h2>
 <h3>What data do we store?</h3>
-<p>We do not collect or store any kind of data or other Credentials.</p>
+<p>We do not collect or store any kind of data or other Credentials. Your messages are read by bot to help with moderation but they aren't stored.</p>
  
 <h3>
   What Permissions the bot asks for?</h3>
